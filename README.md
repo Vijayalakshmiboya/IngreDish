@@ -50,43 +50,16 @@ Just enter one or more ingredients (e.g., `egg, rice, tomato`) — and instantly
    git clone https://github.com/Vijayalakshmiboya/IngreDish.git
    cd IngreDish
 Install dependencies:
-
-bash
-Copy code
 npm install
 Start the app:
-
-bash
-Copy code
 npm start
 Open your browser and visit:
-
-arduino
-Copy code
 http://localhost:3000
 📁 Project Structure
-pgsql
-Copy code
-IngreDish/
-│
-├── public/
-├── src/
-│   ├── App.js
-│   ├── App.css
-│   ├── index.js
-│   └── 1.jpg
-│
-├── screenshots/
-│   ├── home.png
-│   ├── result1.png
-│   ├── result2.png
-│   ├── loadmore.png
-│   ├── responsiveness1.png
-│   ├── responsiveness2.png
-│
-├── package.json
-├── README.md
-└── .gitignore
+
+<img width="745" height="683" alt="image" src="https://github.com/user-attachments/assets/bb59686a-949b-4577-a924-2cbf83737728" />
+
+
 🌟 Future Enhancements
 🧂 Add filters for cuisine, category, or difficulty
 
@@ -104,12 +77,4 @@ B. Vijayalakshmi
 ❤️ Crafted with passion using React.js
 
 
----
 
-### ✅ Next Steps
-1. Copy the above and save it as **`README.md`** inside your `app/` folder.  
-2. Then run these commands:
-   ```bash
-   git add README.md
-   git commit -m "Added compact portfolio-style README with screenshots"
-   git push origin main
